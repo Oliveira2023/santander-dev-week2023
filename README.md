@@ -1,7 +1,7 @@
 #Projeto Dio da Dev week Santander 2023
 Java RESTful API criada para Santander dev WEek
 
-## Diagrama de classesÇ
+## Diagrama de classes
 ```mermaid
 classDiagram
   class User {
@@ -59,3 +59,6 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 ```
+
+##
+https://railway.app/account
